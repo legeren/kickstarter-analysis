@@ -9,10 +9,10 @@ The purpose of this project is to understand to review (1) theatre parent catego
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-For Analysis of Outcomes Based on Launch Date, I created a pivot table of all successful, failed and canceled theatre campaigns by month and then made a chart [(https://github.com/legeren/kickstarter-analysis/blob/33429fc6574d6e689bae91bb7f42c21fef323bda/resources/Outcomes_vs_Goals.png)] to visualize the success rates based on month.
+For Analysis of Outcomes Based on Launch Date, I created a pivot table in the ***Kickstarter - Challenge workbook*** (see **Theater Outcomes by Launch Date** tab) [(https://github.com/legeren/kickstarter-analysis/blob/33429fc6574d6e689bae91bb7f42c21fef323bda/Kickstarter_Challenge.zip)] of all successful, failed and canceled theatre campaigns by month and then made a chart [(https://github.com/legeren/kickstarter-analysis/blob/33429fc6574d6e689bae91bb7f42c21fef323bda/resources/Outcomes_vs_Goals.png)] to visualize the success rates based on month.
 
 ### Analysis of Outcomes Based on Goals
-For Analysis of Outcomes Based on Goals, I created a table counting all successful, failed and canceled plays per different funding thresholds and then made a chart [(https://github.com/legeren/kickstarter-analysis/blob/33429fc6574d6e689bae91bb7f42c21fef323bda/resources/Outcomes_vs_Goals.png)] to visualize the success rates based on funding thresholds.
+For Analysis of Outcomes Based on Goals, I created a table in the ***Kickstarter - Challenge workbook*** (see **Outcomes Based on Goals** tab) [(https://github.com/legeren/kickstarter-analysis/blob/33429fc6574d6e689bae91bb7f42c21fef323bda/Kickstarter_Challenge.zip)] counting all successful, failed and canceled plays per different funding thresholds and then made a chart [(https://github.com/legeren/kickstarter-analysis/blob/33429fc6574d6e689bae91bb7f42c21fef323bda/resources/Outcomes_vs_Goals.png)] to visualize the success rates based on funding thresholds.
 
 ### Challenges and Difficulties Encountered
 For Outcomes Based on Goals analysis, I originally neglected to include the fourth criteria to the countifs function which resulted in miscalculation of total number of plays.
